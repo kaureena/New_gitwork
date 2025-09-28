@@ -10,5 +10,5 @@ def sub(a,b):
 
 if __name__ == "__main__":
     print("Add",Add(5,3))
-    print("Add",sub(5,3))
+    print("sub",sub(5,3))
     
